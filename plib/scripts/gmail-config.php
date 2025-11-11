@@ -17,7 +17,7 @@ return [
     'gmail_username' => 'eugenia.delgado.castillo@est.una.ac.cr',  // ← CAMBIAR
     
     // App Password (16 caracteres) - NO uses tu contraseña normal
-    'gmail_password' => 'vqud relc vnni atcj',  // ← CAMBIAR por tu App Password
+    'gmail_password' => 'aaaa bbbb cccc eeee',  // ← CAMBIAR por tu App Password
     
     // =============================
     // DESTINATARIOS
